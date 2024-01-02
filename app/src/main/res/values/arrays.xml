@@ -1,0 +1,5 @@
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.motorola.timeweatherwidget</item>
+    </string-array>
+</resources>

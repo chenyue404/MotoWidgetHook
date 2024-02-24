@@ -1,5 +1,7 @@
 <resources>
     <string-array name="xposed_scope">
         <item>com.motorola.timeweatherwidget</item>
+        <item>com.android.dialer</item>
+        <item>com.zhihu.android</item>
     </string-array>
 </resources>
